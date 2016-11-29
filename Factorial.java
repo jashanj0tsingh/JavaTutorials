@@ -1,4 +1,4 @@
-package datastrctures;
+package JavaTutorials;
 
 import java.util.Scanner;
 
